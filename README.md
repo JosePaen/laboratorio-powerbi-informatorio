@@ -55,6 +55,8 @@ Estas medidas alimentan los KPIs del dashboard.
 
 5️⃣ Visualizaciones del Dashboard
 
+![Dashboard Power BI](dashboard.png)
+
 KPIs de ventas, ticket promedio y cantidad de pedidos
 
 Gráfico de líneas (tendencia mensual)
